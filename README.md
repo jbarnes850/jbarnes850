@@ -1,9 +1,11 @@
 ## Hi there, I'm Jarrod! 👋
 
 ### 🌟 About Me
-I lead the AI Ecosystem & Founder Success team at [NEAR](https://github.com/near), where I’m helping shape the future of AI x Web3. I’m an active open-source contributor and a builder at heart, passionate about creating tools that push the boundaries of what’s possible with AI.
+I'm the founder of [Arc](https://github.com/Arc-Computer), the memory layer for engineering teams and their AI agents. At Arc, we're embedding structured, queryable context directly within the IDE—capturing the "why" behind every line of code and transforming scattered engineering decisions into actionable intelligence.
 
-I’m currently building [Infinite Canvas](https://research1.notion.site/Infinite-Canvas-16101e3ee36b80428d3fcb4f3d9e6820?pvs=4), an open-source framework for training and fine-tuning advanced image and video AI models on Apple Silicon devices—no cloud required. Our mission is to empower businesses and creators with privacy-first, distributed AI systems that deliver near-cloud performance without compromising data security.
+Previously, I led the AI Ecosystem & Founder Success team at [NEAR](https://github.com/near), scaling open-source AI infrastructure and empowering founders building at the intersection of AI and Web3. I'm also an active open-source contributor and have served as Lead for the Protocol Labs Developer Guild, accelerating open-source contributions across core infrastructure.
+
+Passionate about developer tools, AI-native workflows, and decentralized technologies.
 
 ### 📫 Contact:
 - [GitHub](https://github.com/jbarnes850)
