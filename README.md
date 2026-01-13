@@ -1,15 +1,20 @@
-## Hi there, I'm Jarrod! 👋
+# Jarrod Barnes
 
-I'm the co-founder of [Arc](https://github.com/Arc-Computer), a research‑driven team building the learning layer for agents. We believe the next decade belongs to systems that learn with you and for you, capturing what works, transferring it across teams, and getting better with every outcome. With Arc, agents build experience. They learn your standards, push back when a choice conflicts with past wins, and share distilled tactics across your organization, creating a self‑improving execution layer.
+I'm an Applied ML engineer in New York. I specialize in teaching machines how to learn and focus on post-training and evaluation systems that help agents evolve from experience safely and measurably. My research is centered on how we continuously evaluate, govern, and interpret agents whose behavior shifts with new data, tools, and feedback.
 
-Previously, I led the AI Ecosystem team at [NEAR](https://github.com/near), scaling open-source AI infrastructure and empowering founders building at the intersection of AI and Web3. I'm also an active open-source contributor and have served as Lead for the [Protocol Labs Developer Guild](https://github.com/protocol), accelerating open-source contributions across core infrastructure.
+Before ML, I was a college football coach at Ohio State and Clemson, worked for the LA Rams, taught at NYU, and invested in education technology at Emerson Collective. My throughline and core motivation is to help people get from where they're at to where they want to go. Now I do that for agents. I studied learning design at UIUC, researching how to design optimal learning environments and the science of skill acquisition. I left to found [Arc](https://arc.computer), where those concepts became the foundation for how we teach agents to learn.
 
-Passionate about developer tools, AI-native workflows, and decentralized technologies.
+## Current Projects
 
-### Contact:
-- [GitHub](https://github.com/jbarnes850)
-- [LinkedIn](https://www.linkedin.com/in/jarrodbarnes/)
-- [Twitter](https://x.com/JarrodBarnes)
+**[ATLAS](https://github.com/Arc-Computer/ATLAS)** — Continual learning framework for production LLM agents.[Paper](https://arxiv.org/abs/2511.01093)
+
+**[CL-Bench](https://github.com/Arc-Computer/CL-Bench)** — Benchmark for evaluating agent continual learning in stateful environments
+
+## Open Source
+
+Active contributor to [Slime](https://github.com/THUDM/slime) (multi-turn RL training) and [SGLang](https://github.com/sgl-project/sglang) (inference infrastructure)
+
+[Website](https://jbarnes850.github.io) | [LinkedIn](https://www.linkedin.com/in/jarrodbarnes/) | [Twitter](https://x.com/JarrodBarnes) | jbarnes850@gmail.com
 
 ### Based in...
 Brooklyn, NY 🗽
