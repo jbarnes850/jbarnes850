@@ -6,7 +6,7 @@ Before ML, I was a college football coach at Ohio State and Clemson, worked for 
 
 ## Current Projects
 
-**[ATLAS](https://github.com/Arc-Computer/ATLAS)** — Continual learning framework for production LLM agents.[Paper](https://arxiv.org/abs/2511.01093)
+**[ATLAS](https://github.com/Arc-Computer/ATLAS)** — Continual learning framework for production LLM agents | [Paper](https://arxiv.org/abs/2511.01093)
 
 **[CL-Bench](https://github.com/Arc-Computer/CL-Bench)** — Benchmark for evaluating agent continual learning in stateful environments
 
