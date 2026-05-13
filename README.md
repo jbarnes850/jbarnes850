@@ -1,20 +1,38 @@
 # Jarrod Barnes
 
-I'm an Applied ML engineer in New York. I specialize in teaching machines how to learn and focus on post-training and evaluation systems that help agents evolve from experience safely and measurably. My research is centered on how we continuously evaluate, govern, and interpret agents whose behavior shifts with new data, tools, and feedback.
+I'm a researcher and founder working on open-ended scientific discovery. I run [Dynamical Systems](https://dynamicalsystems.ai), where I build environments, evaluations, and verification systems that make scientific work trainable.
 
-Before ML, I was a college football coach at Ohio State and Clemson, worked for the LA Rams, taught at NYU, and invested in education technology at Emerson Collective. My throughline and core motivation is to help people get from where they're at to where they want to go. Now I do that for agents. I studied learning design at UIUC, researching how to design optimal learning environments and the science of skill acquisition. I left to found [Arc](https://arc.computer), where those concepts became the foundation for how we teach agents to learn.
+My work sits across RL, post-training, agent evaluation, and scientific ML, turning search, uncertainty, revision, tool use, and verification into learning signals for models operating in long-horizon environments.
 
-## Current Projects
+## Research threads
 
-**[ATLAS](https://github.com/Arc-Computer/ATLAS)** — Continual learning framework for production LLM agents | [Paper](https://arxiv.org/abs/2511.01093)
+**[Training scientific judgment](https://dynamicalsystems.ai/blog/training-scientific-judgment)**
 
-**[CL-Bench](https://github.com/Arc-Computer/CL-Bench)** — Benchmark for evaluating agent continual learning in stateful environments
+Verified campaign environments convert search, trust, escalation, and revision into a multi-turn RL problem with physics-grounded oracle reward.
 
-## Open Source
+**[Scaling test-time verification for novel materials](https://dynamicalsystems.ai/blog/scaling-test-time-verification)**
 
-Active contributor to [Slime](https://github.com/THUDM/slime) (multi-turn RL training) and [SGLang](https://github.com/sgl-project/sglang) (inference infrastructure)
+Probe-gradient guidance extracts band-gap signal from an unconditional crystal diffusion model and steers sampling without retraining.
 
-[Website](https://jbarnes850.github.io) | [LinkedIn](https://www.linkedin.com/in/jarrodbarnes/) | [Twitter](https://x.com/JarrodBarnes) | jbarnes850@gmail.com
+**[Self-improving pretraining as a substrate for agentic post-training](https://jbarnes850.github.io/2026/04/27/self-improving-pretraining-thinking-midtraining/)**
 
-### Based in...
-Brooklyn, NY 🗽
+Synthetic thinking traces and self-improvement loops as a substrate for training models that can revise, critique, and extend their own work.
+
+**[Do language models know when to change their mind?](https://jbarnes850.github.io/2026/03/20/do-models-know-when-to-change-their-mind/)**
+
+Experiments on belief revision, uncertainty, and when models should update from evidence.
+
+**[ATLAS: Adaptive Test-Time Learning for Agentic Systems](https://github.com/Arc-Computer/ATLAS)**
+
+A continual learning framework that converts production agent trajectories into inference-time adaptation and on-policy distillation loops.
+
+## Open source
+
+I contribute to inference and training infrastructure in the open-source ML stack:
+
+- [SGLang](https://github.com/sgl-project/sglang): inference infrastructure
+- [Slime](https://github.com/THUDM/slime): RL trainer
+
+Primary stack: Python, Rust, PyTorch, Ray, SGLang.
+
+[Website](https://jbarnes850.github.io) | [LinkedIn](https://www.linkedin.com/in/jarrodbarnes/) | [X](https://x.com/JarrodBarnes) | [Email](mailto:jbarnes850@gmail.com)
