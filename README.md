@@ -18,10 +18,6 @@ Probe-gradient guidance extracts band-gap signal from an unconditional crystal d
 
 Synthetic thinking traces and self-improvement loops as a substrate for training models that can revise, critique, and extend their own work.
 
-**[Do language models know when to change their mind?](https://jbarnes850.github.io/2026/03/20/do-models-know-when-to-change-their-mind/)**
-
-Experiments on belief revision, uncertainty, and when models should update from evidence.
-
 **[ATLAS: Adaptive Test-Time Learning for Agentic Systems](https://github.com/Arc-Computer/ATLAS)**
 
 A continual learning framework that converts production agent trajectories into inference-time adaptation and on-policy distillation loops.
